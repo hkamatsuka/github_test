@@ -1,5 +1,6 @@
 require "test/version"
+require "date"
 
 module Test
-  put test
+  Date.today
 end
