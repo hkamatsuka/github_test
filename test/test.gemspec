@@ -6,8 +6,8 @@ require 'test/version'
 Gem::Specification.new do |spec|
   spec.name          = "test"
   spec.version       = Test::VERSION
-  spec.authors       = ["Hiroshi Kamatsuka"]
-  spec.email         = ["a1521hk@aiit.ac.jp"]
+  spec.authors       = ["Hiroshi Kamatsuka", "Masatoshi Kanamaru"]
+  spec.email         = ["a1521hk@aiit.ac.jp", "a1520mk@aiit.ac.jp"]
 
   spec.summary       = %q{Test gem for github test}
   spec.description   = %q{Test gem for github test}
